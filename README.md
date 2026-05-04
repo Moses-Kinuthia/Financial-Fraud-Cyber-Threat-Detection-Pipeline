@@ -131,19 +131,23 @@ Mapped to:
 
 ### AD Enumeration
 
-![AD Enumeration](evidence/windows_dc01/scenarioB_ad_enum.png)
+<img width="624" height="128" alt="image" src="https://github.com/user-attachments/assets/ed034374-997a-49cd-a7ca-73bf2066c5ec" />
+
+<img width="624" height="76" alt="image" src="https://github.com/user-attachments/assets/e685b0f3-b702-4646-84e1-9468586f8b5f" />
+
+<img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/90fe4de6-ab61-471d-a96a-9fe2d9e34c12" />
 
 ### Sensitive Data Access
 
-![Sensitive File Access](evidence/windows_dc01/scenarioB_sensitive_data.png)
-
----
+<img width="624" height="242" alt="image" src="https://github.com/user-attachments/assets/1fb7ce8d-d25d-41b1-855f-5f51df800b22" />
+<img width="624" height="65" alt="image" src="https://github.com/user-attachments/assets/567ff580-72c0-4e67-a8af-b5a39bfc5b85" />
 
 ## 2️⃣ Persistence & Abuse
 
 ### Backdoor Account Creation
 
-![Backdoor Account](evidence/windows_dc01/scenarioB_user_creation.png)
+
+![Uploading image.png…]()
 
 ### Privilege Escalation
 
