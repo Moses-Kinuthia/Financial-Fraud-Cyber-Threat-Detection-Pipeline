@@ -70,25 +70,7 @@ Mapped to:
 
 ## 🧱 Lab Architecture
 
-```
-                     ┌──────────────┐
-                     │  Kali Linux  │
-                     │ (Attacker)   │
-                     └──────┬───────┘
-                            │
-                            ▼
-        ┌──────────────────────────────┐
-        │   pfSense Firewall (10.0.0.1)│
-        └──────────────┬───────────────┘
-                       │
-     ┌─────────────────┼──────────────────┐
-     ▼                 ▼                  ▼
-┌──────────┐   ┌──────────────┐   ┌──────────────┐
-│  DC01    │   │ WKSTNO1      │   │ Wazuh Server │
-│ AD Server│   │ Windows 10   │   │ SIEM         │
-│10.0.0.10 │   │10.0.0.100    │   │10.0.10.11    │
-└──────────┘   └──────────────┘   └──────────────┘
-```
+<img width="1408" height="768" alt="SOC Home Lab Architecture" src="https://github.com/user-attachments/assets/a20d168d-1f47-4bea-9a4e-4f4e0f8b246e" />
 
 ---
 
