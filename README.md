@@ -86,29 +86,29 @@ Mapped to:
 
 ### Reconnaissance
 
-![Scenario A Recon](evidence/kali_attacks/scenarioA_recon.png)
+<img width="624" height="247" alt="image" src="https://github.com/user-attachments/assets/c06a9bf5-badb-419d-a7f7-733bd8b50a07" />
 
 ### Domain Enumeration
 
-![Scenario A Enumeration](evidence/kali_attacks/scenarioA_enum.png)
+<img width="624" height="168" alt="image" src="https://github.com/user-attachments/assets/5b23edb6-e95a-4e65-810a-6514e80b2008" />
 
 ### Credential Stuffing Attack
 
-![Scenario A NetExec Attack](evidence/kali_attacks/scenarioA_netexec.png)
-
----
+<img width="624" height="191" alt="image" src="https://github.com/user-attachments/assets/5fce9021-1987-4b29-a455-66e88c8b2468" />
 
 ## 2️⃣ SIEM Detection (Wazuh)
 
 ### Authentication Failures Flood
 
-![Wazuh ATO Alerts](evidence/wazuh_dashboard/scenarioA_alerts.png)
+<img width="624" height="205" alt="image" src="https://github.com/user-attachments/assets/66a65489-8359-494c-932e-d79b6db6ffe4" />
+
+<img width="624" height="286" alt="image" src="https://github.com/user-attachments/assets/59b30c19-87b8-4863-a44d-afb372238bdc" />
 
 ### Account Lockout Detection
 
-![Lockout Event](evidence/windows_dc01/scenarioA_lockout.png)
+<img width="624" height="204" alt="image" src="https://github.com/user-attachments/assets/19044e89-de81-4bb7-bc00-497a2dea960b" />
 
----
+<img width="624" height="287" alt="image" src="https://github.com/user-attachments/assets/31681d10-5d3e-45df-86fb-748579e508ee" />
 
 ## 3️⃣ Endpoint Evidence (DC01)
 
